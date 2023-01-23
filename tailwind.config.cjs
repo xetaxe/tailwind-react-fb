@@ -6,7 +6,23 @@ module.exports = {
       md: '900px',
       lg: '1160px',
     },
-    extend: {},
+    colors: {
+      'fb-blue': '#1877f2',
+      'fb-gray': '#65676b',
+      'fb-lightgray': '#e4e6eb',
+      'fb-black': '#050505'
+    },
+    fontFamily: {
+      sans: ['Noto Sans', 'sans-serif']
+    },
+    extend: {
+      backgroundImage: {
+        'fbActions': "url('/src/assets/fb-collections/fb-actions.png')",
+        'fbIcons': "url('/src/assets/fb-collections/fb-icons.png')",
+        'fbImgs': "url('/src/assets/fb-collections/fb-imgs.png')",
+        'fbLinks': "url('/src/assets/fb-collections/fb-links.png')",
+      }
+    },
   },
   plugins: [],
 }
