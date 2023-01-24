@@ -8,6 +8,8 @@ module.exports = {
     },
     colors: {
       'fb-blue': '#1877f2',
+      'fb-white': '#ffffff',
+      'fb-bg': '#f0f2f5',
       'fb-gray': '#65676b',
       'fb-lightgray': '#e4e6eb',
       'fb-black': '#050505'
