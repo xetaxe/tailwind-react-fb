@@ -16,6 +16,7 @@ module.exports = {
         'fbIcons': "url('/src/assets/fb-collections/fb-icons.png')",
         'fbImgs': "url('/src/assets/fb-collections/fb-imgs.png')",
         'fbLinks': "url('/src/assets/fb-collections/fb-links.png')",
+        'fbHome': "url('/src/assets/fb-collections/fb-home.png')",
       },
       colors: {
         'fb-blue': '#1877f2',

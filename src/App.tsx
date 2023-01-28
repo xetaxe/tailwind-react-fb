@@ -7,9 +7,9 @@ import Sidebar from './sections/Sidebar'
 
 function App() {
   return (
-    <div className="border-box bg-fb-bg min-h-screen">
+    <div className="border-box bg-fb-bg min-h-screen relative -z-20">
       <Header></Header>
-      {/* <Sidebar></Sidebar> */}
+      <Sidebar></Sidebar>
       {/* <Main></Main> */}
       {/* <Messages></Messages> */}
       {/* <Contacts></Contacts> */}
