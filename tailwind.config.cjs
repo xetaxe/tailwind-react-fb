@@ -23,7 +23,8 @@ module.exports = {
         'fb-bg': '#f0f2f5',
         'fb-gray': '#65676b',
         'fb-lightgray': '#e4e6eb',
-        'fb-black': '#050505'
+        'fb-black': '#050505',
+        'fb-red': '#e41e3f'
       }
     },
   },
